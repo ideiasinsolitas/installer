@@ -2,8 +2,6 @@
 
 namespace Deck\Installer;
 
-use PDO;
-
 class Installer
 {
 
